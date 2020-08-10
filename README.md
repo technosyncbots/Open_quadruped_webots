@@ -1,0 +1,2 @@
+# Open_quadruped_webots
+I have created an open source quadruped using the webots simulation platform. It is easy to use and really powerful. You can build your own applications around this project and use it to extend your research. This is an attempt to expand quadruped research to more and more students. I have learnt a lot from open source and I thought it was about time to give back something to the community.
